@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/NandodkarAmogh/Color-flipper](https://github.com/NandodkarAmogh/Color-flipper)
-- Live Site URL: [https://simplecolor-flipper.netlify.app/](https://simplecolor-flipper.netlify.app/)
+- Solution URL: [https://github.com/NandodkarAmogh/Counter](https://github.com/NandodkarAmogh/Counter)
+- Live Site URL: [https://simple-javascript-counter.netlify.app/](https://simple-javascript-counter.netlify.app/)
 
 ## My process
 
